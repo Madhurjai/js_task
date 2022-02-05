@@ -4,4 +4,5 @@ temp = 10;
 var temp2 ;
 temp2 = temp ;
 console.log(temp2) ;
-let demo = 6 ;
+let str = "my string" ;
+console.log(str) ;
