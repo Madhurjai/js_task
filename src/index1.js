@@ -45,3 +45,5 @@ var e = 2.334 ;
 console.log(d*e);
 console.log(d/e);
 console.log(d%e);
+a += 1  ;
+console.log(a)
