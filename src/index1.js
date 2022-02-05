@@ -80,4 +80,6 @@ console.log(mystr[1]);  //o/p = job
 console.log(mystr[mystr.length-1]) ;
 console.log(mystr[mystr.length-2]) ;
 var blank = "it was hot " + " we laugh" ;
-console.log(blank)
+console.log(blank); 
+
+var arr = [4,5,6 ,"hello", true , undefined];
