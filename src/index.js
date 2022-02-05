@@ -5,4 +5,7 @@ var temp2 ;
 temp2 = temp ;
 console.log(temp2) ;
 let str = "my string" ;
-console.log(str) ;
+// uninitialize variable 
+var c ;
+c = c + " String!";
+console.log(c)
