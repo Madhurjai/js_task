@@ -9,3 +9,7 @@ let str = "my string" ;
 var c ;
 c = c + " String!";
 console.log(c)
+
+// Understanding Case Sensitivity in Variables 
+
+// myvar and MyVar both are different
