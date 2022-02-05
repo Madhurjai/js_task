@@ -120,3 +120,18 @@ function sub(){
     console.log(sum) ;
 }
 sub()
+
+function local(){
+    let local_var = 12.575 ;
+    console.log(local_var);
+}
+// console.log(local_var); //it throw error because it is a local variable
+local() ;
+
+const someVar = "Hat";
+
+function myFun() {
+  const someVar = "Head";
+  return someVar;
+}
+console.log(myFun());
