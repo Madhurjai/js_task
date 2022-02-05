@@ -79,3 +79,5 @@ console.log(mystr);  //o/p = job
 console.log(mystr[1]);  //o/p = job
 console.log(mystr[mystr.length-1]) ;
 console.log(mystr[mystr.length-2]) ;
+var blank = "it was hot " + " we laugh" ;
+console.log(blank)
