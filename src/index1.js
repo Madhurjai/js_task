@@ -92,3 +92,5 @@ console.log(arr[6][1]) ;
 arr.push("madhur");
 console.log(arr) ;
 
+arr.pop();
+console.log(arr) ;
