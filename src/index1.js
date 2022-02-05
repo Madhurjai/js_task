@@ -56,3 +56,6 @@ console.log(a);
 var lit = "my name is \'madhur jaiswal\'" ;
 console.log(lit);
 var lit = 'Quoting Strings with Single Quotes' ;
+console.log(lit);
+var escap= "input\n putput" ;
+console.log(escap);
