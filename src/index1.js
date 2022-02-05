@@ -76,4 +76,5 @@ console.log(append_var[0]);
 var mystr = "job" ;
 mystr[0] = "d"
 console.log(mystr);  //o/p = job
-console.log(mystr[2]) ;
+console.log(mystr[1]);  //o/p = job
+console.log(mystr[mystr.length-1]) ;
