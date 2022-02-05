@@ -107,3 +107,9 @@ function myfunc(para){
     console.log("hello sir !!" + para);
 }
 myfunc("good morning") ;
+
+function add(a,b){
+    let c = a+b ;
+    return c 
+}
+console.log(add(4,5))
