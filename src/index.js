@@ -27,3 +27,5 @@ console.log(a);
     // o/p = 10
 
 }
+const name ;
+// its value can't be changed
