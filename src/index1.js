@@ -39,3 +39,7 @@ console.log(b/a) ;
 console.log(a) ;
 --a ;
 console.log(a);
+var d = 12.5 ;
+console.log(d);
+var e = 2.334 ;
+console.log(d*e);
