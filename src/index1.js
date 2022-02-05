@@ -64,5 +64,9 @@ console.log(concat);
 var mad = "hello " ;
 mad += "everyone" ;
 console.log(mad)
+
 var mix = "madhur " + mad + " bye" ;
 console.log(mix);
+
+var append_var = `Good morning ${mad}`  ;
+console.log(append_var)
