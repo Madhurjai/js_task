@@ -112,4 +112,11 @@ function add(a,b){
     let c = a+b ;
     return c 
 }
-console.log(add(4,5))
+console.log(add(4,5));
+
+
+var sum = 10 ;
+function sub(){
+    console.log(sum) ;
+}
+sub()
