@@ -97,3 +97,6 @@ console.log(arr) ;
 
 arr.shift();
 console.log(arr) ;
+
+arr.unshift("mad");
+console.log(arr) ;
