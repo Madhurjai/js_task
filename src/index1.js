@@ -88,3 +88,7 @@ console.log(arr) ;
 console.log(arr[2]) ;
 arr[3] = "everyone" ;
 console.log(arr[6][1]) ;
+
+arr.push("madhur");
+console.log(arr) ;
+
