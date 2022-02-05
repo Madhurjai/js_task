@@ -59,3 +59,5 @@ var lit = 'Quoting Strings with Single Quotes' ;
 console.log(lit);
 var escap= "input\n putput" ;
 console.log(escap);
+var concat = 'hello ' + 'everyone' ;
+console.log(concat);
