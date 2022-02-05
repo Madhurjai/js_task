@@ -1,2 +1,3 @@
 // this is a js comment 
-var temp = 10 ;
+var temp  ;
+temp = 10;
