@@ -70,3 +70,4 @@ console.log(mix);
 
 var append_var = `Good morning ${mad}`  ;
 console.log(append_var)
+console.log(append_var.length) ;
