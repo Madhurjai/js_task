@@ -103,7 +103,7 @@ console.log(arr) ;
 
 var shopping = ["candies",25];
 
-function myfunc(){
-    console.log("hello sir !!");
+function myfunc(para){
+    console.log("hello sir !!" + para);
 }
-myfunc() ;
+myfunc("good morning") ;
