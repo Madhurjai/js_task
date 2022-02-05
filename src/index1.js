@@ -100,3 +100,5 @@ console.log(arr) ;
 
 arr.unshift("mad");
 console.log(arr) ;
+
+var shopping = ["candies",25];
