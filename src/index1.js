@@ -147,3 +147,10 @@ console.log(undefine()) ; //it return undefined
  }
  new_var = assign()
  console.log(new_var);
+
+ function arr2(arr1, append){
+     arr1.push(append);
+     arr1.shift();
+     return arr1 ;
+ }
+ console.log(arr2([1,2,3,4,5],7))
