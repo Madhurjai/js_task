@@ -85,3 +85,4 @@ console.log(blank);
 var arr = [4,5,6 ,"hello", true , undefined];
 var arr = [4,5,6 ,"hello", true , undefined ,["my", 'name', 3]];
 console.log(arr) ;
+console.log(arr[2]) ;
