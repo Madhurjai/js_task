@@ -61,3 +61,6 @@ var escap= "input\n putput" ;
 console.log(escap);
 var concat = 'hello ' + 'everyone' ;
 console.log(concat);
+var mad = "hello " ;
+mad += "everyone" ;
+console.log(mad)
