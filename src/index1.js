@@ -46,4 +46,6 @@ console.log(d*e);
 console.log(d/e);
 console.log(d%e);
 a += 1  ;
-console.log(a)
+console.log(a);
+a -= 3 ;
+console.log(a);
