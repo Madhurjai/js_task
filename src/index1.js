@@ -135,3 +135,15 @@ function myFun() {
   return someVar;
 }
 console.log(myFun());
+
+function undefine(){
+    sum = 5 + 4 ;
+}
+console.log(undefine()) ; //it return undefined
+
+ function assign(){
+     sum = 12 + 12.54 ;
+     return sum ;
+ }
+ new_var = assign()
+ console.log(new_var);
