@@ -35,3 +35,5 @@ console.log(a +b);
 console.log(b-a) ;
 console.log(b*a) ;
 console.log(b/a) ;
+++a ;
+console.log(a) ;
