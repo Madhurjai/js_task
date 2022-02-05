@@ -64,3 +64,5 @@ console.log(concat);
 var mad = "hello " ;
 mad += "everyone" ;
 console.log(mad)
+var mix = "madhur " + mad + " bye" ;
+console.log(mix);
