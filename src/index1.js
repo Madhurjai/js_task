@@ -296,3 +296,22 @@ if(val < 30 && val > 15){
 else if(val <15){
     console.log("value is less than 15")
 }
+
+
+function golfScore(par, strokes) {
+    // Only change code below this line
+     if(strokes == 1){
+       return "Hole-in-one!"
+     }
+     else if(strokes <= par-2){
+       return "Eagle";
+     }
+     else if (strokes == par-1){
+       return "Birdie"
+     }
+  
+    return "Change Me";
+    // Only change code above this line
+  }
+  
+  golfScore(5, 4);
