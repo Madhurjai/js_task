@@ -177,3 +177,10 @@ console.log(undefine()) ; //it return undefined
   else{
       console.log(false) ;
   }
+
+  if(8 === "8"){
+      console.log(false);
+  }
+  else{
+      console.log(true);
+  }
