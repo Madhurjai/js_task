@@ -315,3 +315,13 @@ function golfScore(par, strokes) {
   }
   
   golfScore(5, 4);
+
+lowercaseLetter = "b" ;
+  switch(lowercaseLetter) {
+    case "a":
+      console.log("A");
+      break;
+    case "b":
+      console.log("B");
+      break;
+  }
