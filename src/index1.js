@@ -153,4 +153,11 @@ console.log(undefine()) ; //it return undefined
      arr1.shift();
      return arr1 ;
  }
- console.log(arr2([1,2,3,4,5],7))
+ console.log(arr2([1,2,3,4,5],7));
+
+ function welcomeToBooleans() {
+  
+    return true; 
+  
+  }
+  
