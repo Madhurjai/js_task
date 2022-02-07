@@ -258,3 +258,10 @@ console.log(undefine()) ; //it return undefined
   }
   
   testLessOrEqual(10);
+
+function testLogicalAnd(val){
+    if(val < 50 && val > 25){
+        console.log("value is between 25 and 50");
+    }
+}
+testLogicalAnd(28);
