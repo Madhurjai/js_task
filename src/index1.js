@@ -328,6 +328,6 @@ lowercaseLetter = "b" ;
       console.log("C");
       break;
     default:
-        console.log("not a lower");
+        console.log("not a lower value");
         break ;
   }
