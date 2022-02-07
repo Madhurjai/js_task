@@ -289,3 +289,10 @@ function orderMyLogic(val) {
   }
   
   orderMyLogic(4);
+let val = 14 ;
+if(val < 30 && val > 15){
+    console.log("value is less than 30");
+}
+else if(val <15){
+    console.log("value is less than 15")
+}
