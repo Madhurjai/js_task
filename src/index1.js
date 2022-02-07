@@ -167,8 +167,11 @@ console.log(undefine()) ; //it return undefined
   else{
       document.write("not adult!!");
   }
-  my_val = 2 ;
+  my_val = "2";
   if(my_val == 2){
+      console.log(true);
+  }
+  if(my_val === 2){
       console.log(true);
   }
   else{
