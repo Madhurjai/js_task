@@ -265,3 +265,9 @@ function testLogicalAnd(val){
     }
 }
 testLogicalAnd(28);
+function testLogicalor(val){
+    if(val < 50 || val > 25){
+        console.log("value is between 25 and 50");
+    }
+}
+testLogicalor(28);
