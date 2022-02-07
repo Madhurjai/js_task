@@ -193,3 +193,12 @@ console.log(undefine()) ; //it return undefined
   }
   
   testNotEqual(10);
+
+  function testStrictNotEqual(val) {
+    if (val !== 17) { // Change this line
+      return "Not Equal";
+    }
+    return "Equal";
+  }
+  
+  testStrictNotEqual(10);
