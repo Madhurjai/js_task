@@ -160,4 +160,11 @@ console.log(undefine()) ; //it return undefined
     return true; 
   
   }
+  let age = 19 ;
+  if(age > 18){
+      document.write("you are adult");
+  }
+  else{
+      document.write("not adult!!");
+  }
   
