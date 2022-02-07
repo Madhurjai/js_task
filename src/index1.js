@@ -324,6 +324,9 @@ lowercaseLetter = "b" ;
     case "b":
       console.log("B");
       break;
+    case "c":
+      console.log("C");
+      break;
     default:
         console.log("not a lower");
         break ;
